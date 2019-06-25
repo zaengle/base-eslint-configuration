@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "plugin:vue/recommended",
+    "eslint:recommended"
+  ],
+  "rules": {
+    "no-console": 1,
+    "indent": [
+      "error",
+      2
+    ]
+  },
+  "parserOptions": {
+    "parser": "babel-eslint"
+  }
+}
