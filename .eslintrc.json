@@ -8,6 +8,10 @@
     "indent": [
       "error",
       2
+    ],
+    "comma-dangle": [
+      "warn",
+      "always-multiline"
     ]
   },
   "parserOptions": {
