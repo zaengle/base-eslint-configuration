@@ -4,7 +4,7 @@
     "eslint:recommended"
   ],
   "rules": {
-    "no-console": 1,
+    "no-console": "warn",
     "indent": [
       "error",
       2
